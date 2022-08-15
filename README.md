@@ -36,14 +36,6 @@
 
     There is a file that is blank(Hematology.csv) in this folder. The reason I haven't shared it's content it is that it is a copy writed file owned by the  authors(Wael Hassan Gomaa and Fahad Kamal Alsheref) of the base paper (which I have placed along with this README file) and I don't have the permission to make a copy of it or share it with anyone without their consent.
 
-    So how to get it?
-
-    Just send a mail to the author of the paper. His mail id is wael.goma@gmail.com. He will share it with you.
-
-    Subject line : Request for dataset used in your paper -  Blood Diseases Detection using Classical Machine Learning Algothms
-
-    Body: Include your college name and ur details and request him for the dataset.
-
 3. `*.ipynb - Jupyter Notebook Files`
 
     These are python jupyter notebook files where the models were trained and tuned.
